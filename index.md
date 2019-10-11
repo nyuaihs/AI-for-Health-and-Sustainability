@@ -15,7 +15,7 @@ This seminar is possible due to the support of the following faculty and their r
 - Prof. Daniel Neill
 - Prof. Rajesh Ranganath
 - Prof. Oded Regev
-- Prof. John Rizzo
+- Prof. John Ross Rizzo
 - Prof. Lakshminarayanan Subramanian
 ```
 

@@ -19,10 +19,12 @@ This seminar is possible due to the support of the following faculty and their r
 
 ### Venue and Time: Fridays 4-5 PM, Room 446, 60 5th Ave, New York.
 
-### Scheduled Speakers: Please sign up [here](https://forms.gle/yJY7GMc1HXeka78J8) if you want to present!
+### Scheduled Speakers:
 
 1. Oct 18 - Ananth Balashankar, PhD student at NYU Courant
 2. Oct 25 - Daniel Neill, Faculty at NYU Courant, Urban Analytics and Public Service, Machine Learning for Good Laboratory
 3. Nov 1 - Krzysztof J. Geras, Faculty at NYU School of Medicine and CDS
 4. Nov 8 - Shiva Iyer, PhD student at NYU Courant
 5. Nov 15 - Mukund Sudarshan, PhD student at NYU Courant
+
+Please sign up [here](https://forms.gle/yJY7GMc1HXeka78J8) if you want to present!

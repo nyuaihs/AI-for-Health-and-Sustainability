@@ -9,7 +9,6 @@ Through this seminar series, we will host talks from various research groups bot
 
 This seminar is possible due to the support of the following faculty and their research groups (in alphabetical order of last name):
 
-```markdown
 - Prof. Kyunghyun Cho
 - Prof. Krzysztof J. Geras
 - Prof. Daniel Neill
@@ -17,7 +16,6 @@ This seminar is possible due to the support of the following faculty and their r
 - Prof. Oded Regev
 - Prof. John Ross Rizzo
 - Prof. Lakshminarayanan Subramanian
-```
 
 ### Venue and Time: Fridays 4-5 PM, Room 446, 60 5th Ave, New York.
 

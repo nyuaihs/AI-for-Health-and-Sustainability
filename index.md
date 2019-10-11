@@ -21,7 +21,8 @@ This seminar is possible due to the support of the following faculty and their r
 - Prof. John Ross Rizzo
 - Prof. Lakshminarayanan Subramanian
 
-### Venue and Time: Fridays 4-5 PM, Room 446, 60 5th Ave, New York.
+### Venue and Time: 
+Fridays 4-5 PM, Room 446, 60 5th Ave, New York.
 
 ### Scheduled Speakers:
 

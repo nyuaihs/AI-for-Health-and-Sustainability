@@ -10,13 +10,10 @@ Through these seminar series, we will host talks from various research groups bo
 This seminar is possible due to the support of the following faculty and their research groups (in alphabetical order of last name):
 
 ```markdown
-
 - Prof. Kyunghyun Cho
-- Prof. Edwin Gerber
-- Prof. Sonali McDermid
+- Prof. Krzysztof J. Geras
 - Prof. Daniel Neill
 - Prof. Rajesh Ranganath
-- Prof. Narges Razavian
 - Prof. Oded Regev
 - Prof. John Rizzo
 - Prof. Lakshminarayanan Subramanian

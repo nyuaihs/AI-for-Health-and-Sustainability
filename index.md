@@ -4,11 +4,11 @@ Artificial Intelligence shows significant promise when applied to domains like h
 ### Agenda
 
 Through this seminar series, we will host talks from various research groups both within NYU and external collaborators in the NYC area who actively work on applying AI for Health and Sustainability. We aim to utilize the 1 hour session to facilitate interaction to gather early feedback and collaboration between researchers and practitioners in ongoing projects. The topics that would interest this group include, but are not limited to, how advances in AI have transformed applications in: 
-* Health and medical research (computer vision in radiology, pathology, EHR and human vision tools)
+* Medical research (computer vision in radiology, pathology, EHR and human vision tools)
 * Bioinformatics (genomics, structural and molecular interaction networks)
 * Climate change research (atmospheric modeling, pollution, rainfall)
 * Global health (disease surveillance and public health risk monitoring)
-* Computational Sustainability (traffic, news and satellite based socio-economic inference)
+* Sustainability and socio-economic development (traffic, news and satellite based inference)
 
 ### Support
 

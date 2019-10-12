@@ -7,7 +7,8 @@ Through this seminar series, we will host talks from various research groups bot
 * Health and medical research (computer vision in radiology, pathology, EHR and human vision tools)
 * Bioinformatics (genomics, structural and molecular interaction networks)
 * Climate change research (atmospheric modeling, pollution, rainfall)
-* Population health and sustainability tracking (disease and conflict surveillance, traffic, news and satellite based socio-economic inference)
+* Global health (disease surveillance and public health risk monitoring)
+* Computational Sustainability (traffic, news and satellite based socio-economic inference)
 
 ### Support
 

@@ -24,6 +24,8 @@ This seminar is possible due to the support of the following faculty and their r
 
 ### Venue and Time: 
 Fridays 4-5 PM, Room 446, 60 5th Ave, New York.
+Please sign up [here](https://forms.gle/yJY7GMc1HXeka78J8) if you want to present!
+And sign up to the [mailing list](https://groups.google.com/forum/#!forum/nyu-ai-hs) for updates!
 
 ### Scheduled Speakers:
 
@@ -38,4 +40,3 @@ Fridays 4-5 PM, Room 446, 60 5th Ave, New York.
 | 7. | Dec 6 | Kunal Nagpal | **Development and Validation of a Deep Learning Algorithm for Improving Gleason Scoring of Prostate Cancer** | TBD |
 | 8. | Dec 13 | Ren Yi | **Learning from Data-Rich Problems: A Case Study on Genetic Variant Calling** | TBD |
 
-Please sign up [here](https://forms.gle/yJY7GMc1HXeka78J8) if you want to present!

@@ -27,7 +27,7 @@ Fridays 4-5 PM, Room 446, 60 5th Ave, New York.
 Please sign up [here](https://forms.gle/yJY7GMc1HXeka78J8) if you want to present!
 And sign up to the [mailing list](https://groups.google.com/forum/#!forum/nyu-ai-hs) for updates!
 
-### Scheduled Speakers:
+### Scheduled Speakers (Tentative):
 
 |#|Date|Speaker|Title and Abstract| Links |
 |---|---|---|---|---|

@@ -39,4 +39,7 @@ And sign up to the [mailing list](https://groups.google.com/forum/#!forum/nyu-ai
 | 6. | Nov 22 | Harvineet Singh | **Fairness in Health and Causal Domain Adaptation** | TBD |
 | 7. | Dec 6 | Kunal Nagpal | **Development and Validation of a Deep Learning Algorithm for Improving Gleason Scoring of Prostate Cancer** | TBD |
 | 8. | Dec 13 | Ren Yi | **Learning from Data-Rich Problems: A Case Study on Genetic Variant Calling** | TBD |
+| 9. | Jan 31 | Susan Liao | TBD | TBD |
+| 10. | Feb 28 | Vishwali Mhasawade | TBD | TBD |
+
 

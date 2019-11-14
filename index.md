@@ -40,8 +40,8 @@ And sign up to the [mailing list](https://groups.google.com/forum/#!forum/nyu-ai
 | 7. | Nov 22 | Harvineet Singh | **Fairness in Health and Causal Domain Adaptation** | TBD |
 | 8. | Dec 6 | Ren Yi | **Learning from Data-Rich Problems: A Case Study on Genetic Variant Calling** | TBD |
 | 9. | Dec 13 | Kunal Nagpal | **Development and Validation of a Deep Learning Algorithm for Improving Gleason Scoring of Prostate Cancer** | TBD |
-| 10. | Jan 31 | Susan Liao | TBD | TBD |
-| 11. | Feb 7 | Shiva Iyer | **Fine-grained spatio-temporal mapping of air quality in Delhi using low-cost monitors** | TBD |
+| 10. | Feb 7 | Susan Liao | TBD | TBD |
+| 11. | Feb 14 | Shiva Iyer | **Fine-grained spatio-temporal mapping of air quality in Delhi using low-cost monitors** | TBD |
 | 12. | Feb 28 | Vishwali Mhasawade | TBD | TBD |
 
 
